@@ -1,7 +1,13 @@
-## Olá! Me chamo Vinicius Tonini 👏
+## Olá! Me chamo Vinicius 👏
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-tonini-92a12a186/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusf_tonini/?next=%2F/)
+
+<br />
+
+I'm an engineering student and developer from Brazil 🇧🇷
+
+**Sobre mim**
 
 Sou estudante de **Engenharia de Telecomunicações no Instituto Federal de Santa Catarina (IFSC)**. Gosto muito de desenvolvimento *Web* e a cada dia buscando aprender mais para atingir o próximo nível 🚀🚀. Atualmente, estou atuando como Bolsista de Desenvolvimento de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos [LaSED](http://www.lased.ifsc.edu.br/).
 
@@ -11,7 +17,7 @@ Sou estudante de **Engenharia de Telecomunicações no Instituto Federal de Sant
 
 ##
 
-## Tecnologias que utilizo no meu dia e que busco me aperfeiçoar
+## Tecnologias que utilizo no meu dia-a-dia
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +27,7 @@ Sou estudante de **Engenharia de Telecomunicações no Instituto Federal de Sant
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+##
 
 ![Snake animation](https://github.com/viniciusft81/viniciusft81/blob/output/github-contribution-grid-snake.svg)
