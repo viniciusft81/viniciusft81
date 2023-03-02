@@ -23,3 +23,5 @@ Sou estudante de **Engenharia de Telecomunicações no Instituto Federal de Sant
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Snake animation](https://github.com/viniciusft81/viniciusft81/blob/output/github-contribution-grid-snake.svg)
