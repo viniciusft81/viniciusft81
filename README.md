@@ -16,9 +16,9 @@ I'm an engineering student and developer from Brazil 🇧🇷
 
 **About me**
 
-- 💼  Bolsista em Desenvolvimento de Software jr. no [LaSED](http://www.lased.ifsc.edu.br/)
+- 💼  Desenvolvedor de Software / Pesquisador jr. no [LaSED](http://www.lased.ifsc.edu.br/)
 - 🎓 Estudante de **Engenharia de Telecomunicações** no IFSC
-- ❤️ Sou apaixonado por desenvolvimento **FrontEnd** 
+- ❤️ Sou apaixonado por desenvolvimento **Backend** e **Mobile** 
 - 🚀 Cada dia busco aprender mais para atingir o próximo nível  
 - 🧑🏻‍💻 Let's code
 
